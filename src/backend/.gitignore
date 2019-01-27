@@ -1,0 +1,7 @@
+db.sqlite3
+backend/local_settings.py
+*.egg-info
+*.pot
+*.py[co]
+__pycache__/
+MANIFEST
